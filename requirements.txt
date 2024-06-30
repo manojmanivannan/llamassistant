@@ -1,0 +1,6 @@
+geopy
+CurrencyConverter
+pydantic
+requests
+rich
+streamlit
